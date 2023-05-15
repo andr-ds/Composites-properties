@@ -2,7 +2,7 @@
 ____
 ## Установка
 ```
-    https://github.com/andr-ds/Data-Science-2022-2.0-VKR.git
+    https://github.com/andr-ds/Composites-properties.git
 ```
 ____
 ## Языки программирования
