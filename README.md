@@ -2,7 +2,7 @@
 ____
 ## Установка
 ```
-    https://github.com/andr-ds/Composites-properties.git
+    https://github.com/andr-ds/Composites_Properties_DataScience.git
 ```
 ____
 ## Языки программирования
